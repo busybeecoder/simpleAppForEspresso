@@ -3,13 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/asssa/.gradle/caches/transforms-3/f794c157ce27c216c504b2261e60ef5d/transformed/material-1.4.0/res/layout/design_navigation_item.xml" value="0.1" />
+        <entry key="..\:/Users/asssa/.gradle/caches/transforms-3/f794c157ce27c216c504b2261e60ef5d/transformed/material-1.4.0/res/layout/design_navigation_menu_item.xml" value="0.1" />
         <entry key="..\:/Users/kirik/AndroidStudioProjects/SimpleAppForEspresso/app/src/main/res/layout/content_main.xml" value="0.296195652173913" />
         <entry key="..\:/Users/kirik/AndroidStudioProjects/SimpleAppForEspresso/app/src/main/res/layout/fragment_gallery.xml" value="0.17603850050658562" />
         <entry key="..\:/Users/kirik/AndroidStudioProjects/SimpleAppForEspresso/app/src/main/res/layout/list_item.xml" value="0.17603850050658562" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
